@@ -3,7 +3,8 @@
 # dependencies
 /node_modules
 .idea/
-/.pnp
+.vscode/
+.pnp
 .pnp.js
 
 # testing
